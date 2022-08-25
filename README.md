@@ -1,4 +1,4 @@
-# Assignment-1
+# Assignment-1 CSS343 UWB
 Assignment 1 for CSS 343B Spring Quarter 2022 UWB
 
 Create a Poly.cpp ADT to collect data from users and store them in array.
